@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pythonproject5"
+version = "0.1.0"
+description = "Console personal assistant bot (CLI, Core course homework)"
+authors = ["Andrii <magaandrey195@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
